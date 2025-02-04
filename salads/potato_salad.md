@@ -1,6 +1,7 @@
-# Ingredients
-Potatos
-Tomatos
-Onions
-# Instructions
+# Potato Salad
+## Ingredients
+- Potatos
+- Tomatos
+- Onions
+## Instructions
 peel and chop everything
